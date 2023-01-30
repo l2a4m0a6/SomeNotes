@@ -12,7 +12,7 @@
 
 *Law of multiple proportions*: When two elements combine with each other to form two or more compounds, the ratios of the masses of one element that combines with the fixed ratio of the other are simple whole numbers.
 
-***** Dalton's atomic theory
+**** Dalton's atomic theory
 - All matter is made of very tiny particles called atoms.
 - Atoms are indivisible particles, which cannot be created or destroyed in a chemical reaction.
 - Atoms of a given element are identical in mass and chemical properties.
