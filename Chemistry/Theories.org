@@ -1,0 +1,25 @@
+* Theories
+
+** Some Basic Concepts of Chemistry
+
+*Law of conservation of mass*: this law states that matter can neither be created nor destroyed. In other words, the total mass, that is, the sum of mass of reacting mixture and the products formed remains constant.
+
+*Law of definite proportion*: This law states that if two elements combine to form more than one compound, the masses of these elements in the reaction are in the ratio of small whole numbers.
+
+*Gay lussac's law of gasseous volume*: This law states that when gases are produced or combine in a chemical reaction, they do so in simple ratio by volume given that all the gases are at same temperature and pressure
+
+*Avogadro's law*: It stated that under same conditions of temperature and pressure, equal volume of all the gases contain equal number of molecules.
+
+*Law of multiple proportions*: When two elements combine with each other to form two or more compounds, the ratios of the masses of one element that combines with the fixed ratio of the other are simple whole numbers.
+
+*** Dalton's atomic theory
+- All matter is made of very tiny particles called atoms.
+- Atoms are indivisible particles, which cannot be created or destroyed in a chemical reaction.
+- Atoms of a given element are identical in mass and chemical properties.
+- Atoms of different elements have different masses and chemical properties.
+- Atoms combine in the ratio of small whole numbers to form compounds.
+- The relative number and kinds of atoms are constant in a given compound.
+**** Limitations
+Atoms of the same or different types have a strong tendency to combine together to form a new group of atoms. For example, hydrogen, nitrogen, oxygen gases exist in nature as group of two atoms. This indicates that the smallest unit capable of independent existence is not an atom, but a group of atoms.
+
+With the discovery of sub-atomic particles, e.g.,electrons, neutrons and protons, the atom can no longer be considered indivisible.
