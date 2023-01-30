@@ -19,6 +19,6 @@
 - Atoms of different elements have different masses and chemical properties.
 - Atoms combine in the ratio of small whole numbers to form compounds.
 - The relative number and kinds of atoms are constant in a given compound.
-- Limitations
+- *Limitations*
     Atoms of the same or different types have a strong tendency to combine together to form a new group of atoms. For example, hydrogen, nitrogen, oxygen gases exist in nature as group of two atoms. This indicates that the smallest unit capable of independent existence is not an atom, but a group of atoms.
     With the discovery of sub-atomic particles, e.g.,electrons, neutrons and protons, the atom can no longer be considered indivisible.
