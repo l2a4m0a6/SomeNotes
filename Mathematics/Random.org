@@ -1,0 +1,7 @@
+* Random Things to remember
+
+** Permutions and Combinations
+
+| Permutations | Combinations |
+|-+-|
+| Order does matter | Order does not matter |
