@@ -1,0 +1,8 @@
+* Random
+
+** Motion
+$\text{-/+} \longleftarrow \longrightarrow \text{+/-}$
+
+Direction should always be considered /even in distances/
+
+For maximum speed/velocity $\frac{dv}{dt}$ or acceleration is considered 0.
