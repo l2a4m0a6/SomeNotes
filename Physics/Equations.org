@@ -40,3 +40,12 @@ $v = \frac{2 \pi}{t}$
 /Angular Velocity/
 
 a_{centripetal} = $\frac{u^2}{r}$
+
+v_{m} = \sqrt{v_{mR}^{2}+v_{R}^{2} }
+/Shortest Time/
+
+v_{m} = \sqrt{v_{mR}^{2}+v_{R}^{2} }
+/Shortest Path/
+
+
+/Rain Related problems/
