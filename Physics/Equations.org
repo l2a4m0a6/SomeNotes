@@ -68,3 +68,6 @@ f_{k} = $\mu$ k_{N}
 
 v = $\sqrt{rg \tan \theta}$
 /maximum speed a vehicle can move on a circular banked roads/
+
+[[https://d223we85878hn.cloudfront.net/b4708187-0534-4dd6-90c7-0f2c5c472bf1_640w.jpeg]]
+/Forces acting on an object at an instant/
