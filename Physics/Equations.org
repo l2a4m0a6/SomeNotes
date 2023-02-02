@@ -29,8 +29,10 @@ $R= \frac{u^2 sin2 \theta}{g}$
 $R_m = \frac{u^2}{g}$
 /Maximum Horizontal Range of a projectile/
 
-$t_m = \frac{u \sin \theta}{g}$
-/Time of Flight of a Projectile/
+$t_m = \frac{u \sin \theta}{g} \longleftarrow (1)$ 
+/Time of maximum height of a Projectile/
+
+Previous equation (1)*2 for time of flight
 
 $h_m = \frac{(u \sin \theta)^2}{2g}$
 
