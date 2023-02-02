@@ -51,3 +51,20 @@ $\overrightarrow{V_{Rm}-R+V_{m}^2}$
 /Rain Related problems/
 
 [[https://d223we85878hn.cloudfront.net/ab3db4e1-14d6-4d45-8920-24eb18689a1f_640w.jpeg]]
+
+** Laws of Motion
+
+p = mv
+/Linear momentum/
+
+F_{12} = - F_{21}
+/Third Law of Motion/ or /Law of Conservation of Momentum/
+
+f_{s} $\le$ \mu_{s} N
+/Static Friction/
+
+f_{k} = $\mu$ k_{N}
+/Kinetic Friction/
+
+v = $\sqrt{rg \tan \theta}$
+/maximum speed a vehicle can move on a circular banked roads/
