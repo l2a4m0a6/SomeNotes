@@ -1,0 +1,23 @@
+* Equation Book
+
+** Motion In a Straigt line
+
+$v = \frac{s}{t}$
+
+$v = u+at$
+
+$s = ut+\frac{1}{2}gt^2$
+
+$v^2 = u^2+2as$
+
+v_{ab} = v_{a}-v_{b}
+a $\bigcirc$ $\longrightarrow$  b $\bigcirc$ $\longrightarrow$
+
+v_{ab} = v_{a}+v_{b}
+a $\bigcirc$ $\longrightarrow$  $\longleftarrow$ $\bigcirc$ b
+
+acceleration_{avg} = $\frac{\Delta Velocity}{\Delta time}$
+
+
+
+
