@@ -36,7 +36,7 @@ Previous equation (1)*2 for time of flight
 
 $h_m = \frac{(u \sin \theta)^2}{2g}$
 
-$v = \frac{2 \pi}{t}$
+$v = \frac{2 \pi}{t} = \omega r$
 /Angular Velocity/
 
 a_{centripetal} = $\frac{u^2}{r}$
@@ -71,3 +71,8 @@ v = $\sqrt{rg \tan \theta}$
 
 [[https://d223we85878hn.cloudfront.net/b4708187-0534-4dd6-90c7-0f2c5c472bf1_640w.jpeg]]
 /Forces acting on an object at an instant/
+
+F = $m * \frac{v^2}{r}$ = $m * \omega^2 r$
+
+[[https://d223we85878hn.cloudfront.net/4ba45526-6972-4c0f-be4f-8b4b8cfcd6f3_640w.jpeg]]
+/Forces acting on an object (banked road)/
