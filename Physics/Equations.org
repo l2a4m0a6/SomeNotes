@@ -87,3 +87,14 @@ F = $m * \frac{v^2}{r}$ = $m * \omega^2 r$
 
 W = F.d $\cos \theta$
 
+W_{net} = KE_{f} - KE_{i}
+
+F = -kx
+/Ideal Spring Equation/
+
+W = $\frac{1}{2}$ kx^{2}
+/Potential Energy of an Ideal Spring/
+
+Here $x$ is the distance compressed
+
+/Total Mechanical Energy/ = /PE/ + /kE/ $\longleftarrow$ always conserved
