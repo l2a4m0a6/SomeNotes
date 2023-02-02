@@ -98,3 +98,5 @@ W = $\frac{1}{2}$ kx^{2}
 Here $x$ is the distance compressed
 
 /Total Mechanical Energy/ = /PE/ + /kE/ $\longleftarrow$ always conserved
+
+P = $\frac{W}{t}$ = f.v
