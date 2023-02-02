@@ -1,0 +1,3 @@
+- [X] Equations
+- [ ] Area under the graph
+- [X] Random
