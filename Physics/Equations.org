@@ -57,6 +57,9 @@ $\overrightarrow{V_{Rm}-R+V_{m}^2}$
 p = mv
 /Linear momentum/
 
+I = F * t
+/Impulse/
+
 F_{12} = - F_{21}
 /Third Law of Motion/ or /Law of Conservation of Momentum/
 
@@ -65,6 +68,9 @@ f_{s} $\le$ \mu_{s} N
 
 f_{k} = $\mu$ k_{N}
 /Kinetic Friction/
+
+F > $\mu mg$
+/Skidding of car on banked road/
 
 v = $\sqrt{rg \tan \theta}$
 /maximum speed a vehicle can move on a circular banked roads/
