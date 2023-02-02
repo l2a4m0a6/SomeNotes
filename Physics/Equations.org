@@ -20,7 +20,7 @@ acceleration_{avg} = $\frac{\Delta Velocity}{\Delta time}$
 
 ** Motion In a Plane
 
-$y=xtan \theta - \frac{gx^2}{2u^2 \cos^2 \theta}$
+$y=xtan \theta - \frac{gx^2}{2u^2 \cos^2 \theta} = x \tan \theta \left(1 - \frac{x}{R} \right)$
 /Parabolic Trajectory/
 
 $R= \frac{u^2 sin2 \theta}{g}$
@@ -49,3 +49,5 @@ v_{m} = \sqrt{v_{mR}^{2}+v_{R}^{2} }
 
 $\overrightarrow{V_{Rm}-R+V_{m}^2}$
 /Rain Related problems/
+
+[[https://d223we85878hn.cloudfront.net/ab3db4e1-14d6-4d45-8920-24eb18689a1f_640w.jpeg]]
