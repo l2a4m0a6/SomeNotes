@@ -2,7 +2,7 @@
 
 ** Motion In a Straigt line
 
-$v = \frac{s}{t}$
+$u = \frac{s}{t}$
 
 $v = u+at$
 
@@ -23,18 +23,18 @@ acceleration_{avg} = $\frac{\Delta Velocity}{\Delta time}$
 $y=xtan \theta - \frac{gx^2}{2u^2 \cos^2 \theta}$
 /Parabolic Trajectory/
 
-$R= \frac{v^2 sin2 \theta}{g}$
+$R= \frac{u^2 sin2 \theta}{g}$
 /Range of a Projectile Motion/
 
-$R_m = \frac{v^2}{g}$
+$R_m = \frac{u^2}{g}$
 /Maximum Horizontal Range of a projectile/
 
-$t_m = \frac{v \sin \theta}{g}$
+$t_m = \frac{u \sin \theta}{g}$
 /Time of Flight of a Projectile/
 
-$h_m = \frac{(v \sin \theta)^2}{2g}$
+$h_m = \frac{(u \sin \theta)^2}{2g}$
 
 $v = \frac{2 \pi}{t}$
 /Angular Velocity/
 
-a_{centripetal} = $\frac{v^2}{r}$
+a_{centripetal} = $\frac{u^2}{r}$
