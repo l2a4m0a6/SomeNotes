@@ -1,0 +1,13 @@
+* Theories
+
+** Laws of Motion
+
+*First law of motion* : A body continues to be in its state of rest or in uniform motion in a straight line unless an external unbalanced force is applied on it.
+
+*Second Law of Motion* : The rate of change of momentum of a body is directly proportional to the force applied on it and this change in momentum takes place in the direction of the applied force.
+
+*Third Law of Motion* : To every action, there is always equal and opposite reaction
+
+** Work, Energy and Power 
+
+*Work Energy Theorem* : The work-energy theorem states that the work done on an object by the net force is equal to the change in its kinetic energy.
