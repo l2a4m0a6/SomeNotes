@@ -18,6 +18,23 @@ a $\bigcirc$ $\longrightarrow$  $\longleftarrow$ $\bigcirc$ b
 
 acceleration_{avg} = $\frac{\Delta Velocity}{\Delta time}$
 
+** Motion In a Plane
 
+$y=xtan \theta - \frac{gx^2}{2u^2 \cos^2 \theta}$
+/Parabolic Trajectory/
 
+$R= \frac{v^2 sin2 \theta}{g}$
+/Range of a Projectile Motion/
 
+$R_m = \frac{v^2}{g}$
+/Maximum Horizontal Range of a projectile/
+
+$t_m = \frac{v \sin \theta}{g}$
+/Time of Flight of a Projectile/
+
+$h_m = \frac{(v \sin \theta)^2}{2g}$
+
+$v = \frac{2 \pi}{t}$
+/Angular Velocity/
+
+a_{centripetal} = $\frac{v^2}{r}$
