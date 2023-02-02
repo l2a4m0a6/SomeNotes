@@ -47,5 +47,5 @@ v_{m} = \sqrt{v_{mR}^{2}+v_{R}^{2} }
 v_{m} = \sqrt{v_{mR}^{2}+v_{R}^{2} }
 /Shortest Path/
 
-
+$\overrightarrow{V_{Rm}-R+V_{m}^2}$
 /Rain Related problems/
