@@ -82,3 +82,8 @@ F = $m * \frac{v^2}{r}$ = $m * \omega^2 r$
 
 [[https://d223we85878hn.cloudfront.net/4ba45526-6972-4c0f-be4f-8b4b8cfcd6f3_640w.jpeg]]
 /Forces acting on an object (banked road)/
+
+** Work, Energy and Power
+
+W = F.d $\cos \theta$
+
