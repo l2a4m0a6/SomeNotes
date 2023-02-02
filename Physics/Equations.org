@@ -99,4 +99,7 @@ Here $x$ is the distance compressed
 
 /Total Mechanical Energy/ = /PE/ + /kE/ $\longleftarrow$ always conserved
 
-P = $\frac{W}{t}$ = f.v
+P = $\frac{W}{t}$ = F.v
+
+$M_a.u_a + M_b.u_b  =  M_a.v_a + M_b.v_b$
+/Perfect Elastic Collision/ $\longleftarrow$ momentum conserved
