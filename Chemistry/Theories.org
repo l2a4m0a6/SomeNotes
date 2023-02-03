@@ -22,3 +22,22 @@
 - *Limitations*
     - Atoms of the same or different types have a strong tendency to combine together to form a new group of atoms. For example, hydrogen, nitrogen, oxygen gases exist in nature as group of two atoms. This indicates that the smallest unit capable of independent existence is not an atom, but a group of atoms.
     - With the discovery of sub-atomic particles, e.g.,electrons, neutrons and protons, the atom can no longer be considered indivisible.
+
+** Structure of Atom
+
+**** Postulates of Bohr's atomic model
+
+- the electrons could revolve around the nucleus in only 'certain orbits' (energy levels) having nucleus at its center. Each orbit has a different radius and certain energy associated with it. 
+
+- Bohr proposed that the angular momentum of an electron is quantized. Thus, the motion of an electron is restricted to those orbits where its angular momentum is an integral multiple of $\frac{h}{2\pi}$
+$mvr = \frac{nh}{2 \pi}$
+
+- energy levels of an atom are quantized, meaning electron can only reside in certain energy levels of an atom. 
+
+- The energy of an electron changes only when it moves from one orbit to another. An electronic transition from an inner orbit to outer orbit involves absorption of energy. Similarly, when an electron jumps from an outer orbit to inner orbit it releases energy, which is equal to the difference between the two energy levels. 
+
+- The energy thus released in the form of a radiation of a certain frequency appears in the form a line in the atomic spectrum.
+
+*Heisenberg uncertainty principle* : The position and momentum of a particle cannot be simultaneously measured with arbitrarily high precision.
+
+*Schrodinger wave equation* : It is a partial differential equation that describes how the wave function of a physical system evolves over time. It is wave nature of electron in 3 dimensional space around nucleus. 
