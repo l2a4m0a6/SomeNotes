@@ -14,4 +14,16 @@ Mass% = $\frac{Mass of elements}{Molar Mass of compound}$ * 100
 
 Normality = $\frac{Gram equivalents}{Volume of solution}$
 
-Converting temperatures
+*Converting temperatures*
+
+Fahrenheit = $\left( \frac{9}{5} * Celsius \right) $+ 32
+
+Kelvin = Celsius + 273
+
+*Conversion of moles*
+
+Number of moles * 6.022 * 10^23 = number of particles
+
+Number of moles * Molar Mass = Mass in grams
+
+Number of moles * 22.4L = Volume at STP
