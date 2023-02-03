@@ -11,6 +11,13 @@ In direction related questions try using $\hat{i} \hat{j} \hat{k}$
 
 Cars  topple when the sideways acceleration exceeds friction angular
 
-If gravity, elasticity or any potential energy related force is not present there is no importance in considering potential energy in total conservation of momentum.
++If gravity, elasticity or any potential energy related force is not present there is no importance in considering potential energy in total conservation of momentum.+
 
+When two bodies collide their momentum and energy changes
+
+| Elastic collision | Inelastic Collision |
+|-+-|
+| Total momentum and energy are conserved | Total momentum and energy are conserved |
+| Total KE is not conserved | Total KE is not conserved |
+| Object does not stick together and do not move in the same direction | Object stick together and moves in the same direction |
 
