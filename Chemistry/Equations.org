@@ -1,0 +1,17 @@
+* Equations
+
+** Some Basic Concepts of Chemistry
+
+Mass Percent = $\frac{Mass of Solute}{Mass of solution}$ * 100
+
+Mole fraction = $\frac{Moles}{Total moles}$
+
+Molarity = $\frac{Moles}{Volume of solution in litres}$
+
+Molality = $\frac{Moles}{Mass of solvent}$
+
+Mass% = $\frac{Mass of elements}{Molar Mass of compound}$ * 100
+
+Normality = $\frac{Gram equivalents}{Volume of solution}$
+
+Converting temperatures
