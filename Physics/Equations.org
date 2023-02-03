@@ -85,7 +85,7 @@ F = $m * \frac{v^2}{r}$ = $m * \omega^2 r$
 
 ** Work, Energy and Power
 
-W = F.d $\cos \theta$
+W =F. $\overrightarrow{d}$ = F.d $\cos \theta$
 
 W_{net} = KE_{f} - KE_{i}
 
@@ -105,3 +105,20 @@ P = $\frac{W}{t}$ = $\overrightarrow{F}.\overrightarrow{v}$
 
 $M_a.u_a + M_b.u_b  =  M_a.v_a + M_b.v_b$
 /Perfect Elastic Collision/ $\longleftarrow$ momentum conserved
+
+| Elastic collision | Inelastic Collsion |
+|-+-|
+| $M_a.u_a + M_b.u_b  =  M_a.v_a + M_b.v_b$ | $M_a.u_a + M_b.u_b  =  (M_a + M_b).v$ |
+| $\frac{1}{2}m_1 u_1^2 + \frac{1}{2}m_2 u_2^2 = \frac{1}{2}m_1 v_1^2 + \frac{1}{2}m_2 v_2^2$ | $\frac{1}{2}m_1 u_1^2 + \frac{1}{2}m_2 u_2^2 = \frac{1}{2}(m_1 + m_2) v^2+ Q$ |
+/Where Q is the energy released as heat or sound/
+
+$\frac{\text{Relative velocity after collision}}{\text{Relative velocity before collision}} = \sqrt{\frac{\text{Kinetic energy after collision}}{\text{Kinetic energy before collision}}}$
+/Coefficient of restitution/
+| e value | meaning |
+|-+-|
+|1|elastic collision|
+|0|inelastic collision|
+|0<e<1| other cases|
+
+$K = \frac{1}{2}m u^2 - \frac{1}{2}(m_1+m_2)v^2$
+/Kinetic Energy lost during 1D collision/
