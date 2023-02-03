@@ -27,3 +27,6 @@ Number of moles * 6.022 * 10^23 = number of particles
 Number of moles * Molar Mass = Mass in grams
 
 Number of moles * 22.4L = Volume at STP
+
+Normality on mixing 2 or more solutions
+N_1.v_1=N_2.v_2
