@@ -93,7 +93,9 @@ F = -kx
 /Ideal Spring Equation/
 
 W = $\frac{1}{2}$ kx^{2}
-/Potential Energy of an Ideal Spring/
+/Potential Energy of an Ideal Spring where $x$ is the distance compressed/
+
+/potential energy stored previously = kinetic energy after spring is uncompressed/
 
 Here $x$ is the distance compressed
 
