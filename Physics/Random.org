@@ -9,7 +9,7 @@ For maximum speed/velocity $\frac{dv}{dt}$ or acceleration is considered 0.
 
 In direction related questions try using $\hat{i} \hat{j} \hat{k}$
 
-Cars  topple when the sideways friction exceeds angular acceleration
+Cars  topple when the sideways acceleration exceeds friction angular
 
 If gravity, elasticity or any potential energy related force is not present there is no importance in considering potential energy in total conservation of momentum.
 
