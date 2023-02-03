@@ -1,3 +1,4 @@
 - [X] Equations
 - [ ] Area under the graph
 - [X] Random
+- [ ] Some important constants,units and measurements
