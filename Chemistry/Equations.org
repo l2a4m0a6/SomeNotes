@@ -48,3 +48,21 @@ $\Delta x \Delta p \ge \frac{h}{4 \pi}$
 Where /$\Delta x$ = Uncertainity of position/ and /$\Delta p$ = Uncertainity of momentum/
 
 [[https://d3jlfsfsyc6yvi.cloudfront.net/image/mw:1024/q:85/https%3A%2F%2Fhaygot.s3.amazonaws.com%3A443%2Fcheatsheet%2F13548.jpg]]
+
+*radius of a nucleus* = R = R_{0}(A)^{1/3}
+
+Where A = nucleon number and R = Radius of nucleus
+
+Energy of proton = E = hf = $\frac{hc}{\lambda}$
+
+h $v$ = h $v_0$ + $\frac{1}{2}mv^2$
+
+$v_0$ = threshold frequency and $v$ = frequency of incident light
+
+mvr = $\frac{nh}{2 \pi}$
+
+$\frac{1}{\lambda}$ = $R_H \left( \frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$
+
+total number of nodes = n-1
+radial nodes = n - l - 1
+Angular nodes = l
