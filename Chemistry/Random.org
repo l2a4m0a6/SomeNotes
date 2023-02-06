@@ -7,3 +7,27 @@ All iso*
 | bars     |        mass number     |       atomic number            |
 | tones    |   number of neutrons   |       mass and atomic number   |
 | diaphers | mass and atomic number | number of protons and neutrons |
+
+
+| System | Matter | Energy |
+|-+-+-|
+|open|yes|yes|
+|closed|no|yes|
+|isolated|no|no|
+
+
+| Process | Function  |
+|-+-|
+| Adiabatic | No heat Transfer |
+| Isochoric | Volume constant |
+| Isobaric | Pressure Constant |
+| Cyclic | Initial and Final energy equal |
+| Reversible | infinitesimally slow and so can be exactly reversed |
+| Irreversible | not infinitesimally slow process |
+
+Internal energy of gas depends on *temperature* and *pressure*
+
+*Heat capacity* of the system is defined as the amount of heat required to raise the temperature of the system through $1^oC$
+
+*Gibbs free energy* is the maximum amount of non-expansion work that can be extracted from a *thermodynamically closed system*
+maximum can be attained only in a completely reversible process.
