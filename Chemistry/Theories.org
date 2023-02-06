@@ -41,3 +41,8 @@ $mvr = \frac{nh}{2 \pi}$
 *Heisenberg uncertainty principle* : The position and momentum of a particle cannot be simultaneously measured with arbitrarily high precision.
 
 *Schrodinger wave equation* : It is a partial differential equation that describes how the wave function of a physical system evolves over time. It is wave nature of electron in 3 dimensional space around nucleus. 
+
+** thermodynamics
+
+*First law of thermodynamics* : Energy can neither be created nor destroyed although it may be converted from one form to another.
+
