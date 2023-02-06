@@ -76,3 +76,12 @@ $\Delta U = q + w$
 $C = \frac{q}{\Delta T}$
 
 $\Delta G = \Delta H - T\Delta S$
+
+$\Delta U = q_v = mc_v \Delta T$
+
+$\Delta H = q_p = mc_p \Delta T$
+
+$C_p - C_v = R$
+
+$\Delta_r H = (sum of enthalpies of products) - (sum of enthalpies of reactants)$
+
