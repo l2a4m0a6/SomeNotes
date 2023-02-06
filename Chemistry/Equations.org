@@ -66,3 +66,13 @@ $\frac{1}{\lambda}$ = $R_H \left( \frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$
 total number of nodes = n-1
 radial nodes = n - l - 1
 Angular nodes = l
+
+K_{internal} = KE + PE
+
+K_{internal}(ideal gas) = $\frac{3}{2}RT
+
+$\Delta U = q + w$
+
+$C = \frac{q}{\Delta T}$
+
+$\Delta G = \Delta H - T\Delta S$
