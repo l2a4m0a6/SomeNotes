@@ -85,3 +85,26 @@ $C_p - C_v = R$
 
 $\Delta_r H = (sum of enthalpies of products) - (sum of enthalpies of reactants)$
 
+** Packing Efficiency
+
+packing efficiency = $\frac{volume occupied by atoms}{volume of unit cell} * 100$
+
+Number of tetrahedral voids = number of particles present in the close packing
+
+Number of tetrahedral voids = 2 * number of octahedral voids
+
+d = a
+
+d = $\frac{a}{\sqrt{2}}$
+
+d = $\frac{\sqrt{3}}{2}a$
+
+r = $\frac{a}{2}$
+
+r = $\frac{a}{2 \sqrt{2}}$
+
+r = $\frac{\sqrt{3}}{4}a$
+
+Where d = nearest neighbour distance a = edge length r = atomic radius
+
+$\rho = \frac{Z * M}{a^3 * N_0}$
