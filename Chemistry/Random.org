@@ -31,3 +31,49 @@ Internal energy of gas depends on *temperature* and *pressure*
 
 *Gibbs free energy* is the maximum amount of non-expansion work that can be extracted from a *thermodynamically closed system*
 maximum can be attained only in a completely reversible process.
+
+| Simplle Cubic | Body Centered cubic | Face Centered Cubic |
+|-+-+-|
+|corners | corners + body center | Corners + faces |
+| $\frac{1}{8}*8=1$ | $\frac{1}{8}*8+1=2$ | $\frac{1}{8}*8+\frac{1}{2}*6=4$|
+|52.4%|68%|74%|
+
+*** Bravais Lattices(3d conf into which atoms can be arranges into crystals)
+|Type|sides|angles|
+|-+-+-|
+|cubic|$a=b=c$|$\alpha = \beta = \gamma = 90^o$
+|tetragonal|$a = b \ne c$|$\alpha = \beta = \gamma = 90^o$
+|orthorhombic|$a \ne b \ne c$|$\alpha = \beta = \gamma = 90^o$
+|hexagonal|$a = b \ne c$|$\alpha = \beta = 90^o$ and $\gamma = 120^o$
+|monoclinic|$a \ne b \ne c$|$\alpha = \gamma = 90^o$ and $\beta \ne 120^o$
+|triclinic|$a \ne b \ne c$|$\alpha \ne \beta \ne \gamma \ne 90^o$
+
+|characteristics|scp|hcp|
+|-+-+-|
+|shape|triagonal void|ocatahedral void|
+|coordination number|4|6|
+
+*** Stoichiometric defects
+|defect|characteristics|
+|-+-|
+|vacancy|vacancy and reduces density|
+|interstitial|extra particles at interstitial sites and increased density|
+|schottky|equally missing cations and anions, reduced density and electrical neutrality|
+|frenkel|missing ions in normal position as they are in interstitial sites, density same as before and electrical neutrality|
+
+*** non stoichiometric defects
+|metal excess defects|metal deficiency defects|
+|-+-|
+|anionic vacancies or extra cation|deficiency of metal in space lattice|
+|Missing anons or extra interstitial cations|cations missing|
+|f centres|cations having higher charge replaces|
+|have colour|shown by transition metals with multiple valencies|
+
+
+|paramagnetic|diamagnetic|ferromagnetic|
+|-+-+-|
+|Non magnetc without external magnetic field|Paired electrons No magnetic moment|strongly magnetised in external magnetic field|
+|magnetised in the same direction of external magnetic field|magnetised in the opposite direction of external magnetic field|magnetised in the same direction|
+|lose magnetism on removal of magnetic field|lose magnetism on removal of magnetic field|don't lose magnetism on removal of magnetic field|
+|non permanent magnet|non permanent magnet|permanent magnet|
+|O_{2}|NaCl, C6H6|Co,Ni,Cr|
