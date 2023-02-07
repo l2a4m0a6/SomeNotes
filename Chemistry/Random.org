@@ -89,3 +89,17 @@ maximum can be attained only in a completely reversible process.
 |-+-|
 |unequally aligned magnetic moments|equally and oppositely alligned domains|
 |Weakly attracted in magnetic field and loses magnetic property on heating|cancel each others magnetic properties|
+
+radius of tetrahedral void = 0.225 R
+
+radius of octahedral void = 0.414 R
+
+types of bonding of crystalling solids
+|type|bond|
+|-+-|
+|ionic|electrostatic|
+|covalent||
+|metallic|metallic bond|
+|hydrogen|hydrogen bonding|
+
+[[https://d223we85878hn.cloudfront.net/072542c2-bc6c-4f22-927a-cf805b5a5339_640w.jpeg]]
