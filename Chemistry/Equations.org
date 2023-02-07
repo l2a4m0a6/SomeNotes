@@ -108,3 +108,12 @@ r = $\frac{\sqrt{3}}{4}a$
 Where d = nearest neighbour distance a = edge length r = atomic radius
 
 $\rho = \frac{Z * M}{a^3 * N_0}$
+
+** Surface Chemistry
+
+$\frac{x}{m} = kP^\frac{1}{n}$
+/Freundlich adsorption isotherm/
+,Where $\frac{x}{m}$ is mass adsorbed per gram of the adsorption, P is pressure, k is constant
+
+
+
