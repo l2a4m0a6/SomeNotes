@@ -77,3 +77,9 @@ maximum can be attained only in a completely reversible process.
 |lose magnetism on removal of magnetic field|lose magnetism on removal of magnetic field|don't lose magnetism on removal of magnetic field|
 |non permanent magnet|non permanent magnet|permanent magnet|
 |O_{2}|NaCl, C6H6|Co,Ni,Cr|
+
+*** ferrimagnetism and antiferrimagnetism
+|ferrimagnetism|antiferrimagnetism|
+|-+-|
+|unequally aligned magnetic moments|equally and oppositely alligned domains|
+|Weakly attracted in magnetic field and loses magnetic property on heating|cancel each others magnetic properties|
