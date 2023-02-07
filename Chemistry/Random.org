@@ -69,7 +69,13 @@ maximum can be attained only in a completely reversible process.
 |f centres|cations having higher charge replaces|
 |have colour|shown by transition metals with multiple valencies|
 
-
+*** contribution of particle
+|particle location|contribution|
+|-+-|
+|corner|$\frac{1}{8}$|
+|face|$\farc{1}{2}$|
+|center|1|
+|edge|$\frac{1}{4}$|
 |paramagnetic|diamagnetic|ferromagnetic|
 |-+-+-|
 |Non magnetc without external magnetic field|Paired electrons No magnetic moment|strongly magnetised in external magnetic field|
