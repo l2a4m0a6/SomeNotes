@@ -145,3 +145,18 @@ Kinetic energy of rolling body
 K.E. = $\frac{1}{2}mU^2 + 1 + \frac{K^2}{R^2}$
 
 $I_1 \omega_1 = I_2 \omega_2$
+
+Center of rigid body
+
+z = $\frac{1}{M} \int z dm$
+
+T =  $\sigma mr^2$
+
+radius of gyration = $\sqrt{\frac{I}{M}}$
+
+moment of inertia = I =mK^{2}
+
+K = $\frac{1}{2}m \omega^{2}$
+
+[[https://d223we85878hn.cloudfront.net/4a1300f0-8ffc-4e66-98d6-d69d8d9a83aa_640w.jpeg]]
+
