@@ -24,3 +24,5 @@ When two bodies collide their momentum and energy changes
 Total angular momentum remains conserved
 
 when linear and angular momentum is zero the body is said to be at equilibrium
+
+Centre of mass of a body is the point at which the total gravitational torque on the body is zero
