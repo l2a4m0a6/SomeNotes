@@ -122,3 +122,26 @@ $\frac{\text{Relative velocity after collision}}{\text{Relative velocity before 
 
 $K = \frac{1}{2}m u^2 - \frac{1}{2}(m_1+m_2)v^2$
 /Kinetic Energy lost during 1D collision/
+
+** System of particles and ...
+
+W = $\tau (\theta_2 - \theta_1)$
+Work done by torque to rotate an object from $\theta_1 \longrightarrow \theta_2$
+
+Force required to topple an object
+
+F = $\frac{mg}{2}$
+
+$\tau = \overrightarrow{r}\times \overrightarrow{F} = rF \sin \theta$
+
+Work done by torque
+
+$W = \tau d \theta$
+
+P = $\tau \omega$
+
+Kinetic energy of rolling body
+
+K.E. = $\frac{1}{2}mU^2 + 1 + \frac{K^2}{R^2}$
+
+$I_1 \omega_1 = I_2 \omega_2$
