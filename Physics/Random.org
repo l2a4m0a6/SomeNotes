@@ -21,3 +21,6 @@ When two bodies collide their momentum and energy changes
 | Total KE is not conserved | Total KE is not conserved |
 | Object does not stick together and do not move in the same direction | Object stick together and moves in the same direction |
 
+Total angular momentum remains conserved
+
+when linear and angular momentum is zero the body is said to be at equilibrium
