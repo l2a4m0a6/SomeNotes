@@ -152,11 +152,17 @@ z = $\frac{1}{M} \int z dm$
 
 T =  $\sigma mr^2$
 
-radius of gyration = $\sqrt{\frac{I}{M}}$
++radius of gyration = $\sqrt{\frac{I}{M}}$+
+
+radius of gyration I = mR^{2}
+
+parallel axis rule : /ie when moment of inertia is away from mass m and I_{center of mass} from a distance d/
+
+I_{final} = I_{cm} + md^{2}
 
 moment of inertia = I =mK^{2}
 
-K = $\frac{1}{2}m \omega^{2}$
+K = $\frac{1}{2}m \omega^2$
 
 [[https://d223we85878hn.cloudfront.net/4a1300f0-8ffc-4e66-98d6-d69d8d9a83aa_640w.jpeg]]
 
