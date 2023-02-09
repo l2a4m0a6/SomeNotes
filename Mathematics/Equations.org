@@ -1,0 +1,19 @@
+** Arithmetic Progression
+
+a_{n} = a + (n-1)d
+
+S_{n} = $\frac{n}{2} \left( 2a + (n-1)d \right)$
+
+a_{n} = a r^{n-1}
+
+S = a $\left( \frac{1 - r^n}{1-r}\right)$
+
+H_{n} = $\frac{1}{a + (n-1)d}$
+
+A.M. = $\frac{S}{n}$
+
+G.M. = $\sqrt[3]{a_1 \times a_2 \times a_n}$
+
+H.M. = $\frac{2ab}{a + b}$
+
+A.M X H.M = G.M^{2}
