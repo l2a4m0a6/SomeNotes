@@ -26,3 +26,10 @@ Total angular momentum remains conserved
 when linear and angular momentum is zero the body is said to be at equilibrium
 
 Centre of mass of a body is the point at which the total gravitational torque on the body is zero
+
+Types of thermal expansion in solids
+
+$\text{Linear}\longrightarrow 1D$
+$\text{Superficial}\longrightarrow 2D$
+$\text{Cubic}\longrightarrow 3D$
+
