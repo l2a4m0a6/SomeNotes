@@ -177,7 +177,7 @@ H = KA $\frac{T_1 - T_2}{L}$
 $m_1 c_1 (t_1 - t) = m_2 c_2 (t- t_2)$
 /Principle of calorimetry/
 
-Specefic heat capacity
+Specific heat capacity
 
 c = $\frac{m}{m \Delta T}$
 
@@ -194,6 +194,33 @@ $\Delta u_1 = e \sigma AT(T_4 - T^4_0)$
 Wien's displacement Law
 
 $\lambda_max = \frac{b}{T}$
+
+Density at temperature T
+
+Q = ML
+
+Where Q : Amount of heat,M = Mass of substance
+
+Expression for expansion
+
+Let X = length(L),Area(A),Volume(V) X_{0} = original volume $\Delta T$ = Temperature difference y = coefficient of expansion
+
+X = X_{0}(1 + y$\Delta T$)
+
+$\alpha$ : coefficient of linear expansion
+t_{0} : initial time period
+
+$\Delta T = \frac{1}{2}\alpha \Delta T t_0$
+
+Scale Reading change on temperature
+TV = SR(1 + $\alpha \Delta$ T)
+
+Joule = $\frac{W}{Q}$
+
+Ideal Gas Equation
+
+PV = $\mu RT$
+
 
 
 
