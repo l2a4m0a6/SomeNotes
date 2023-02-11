@@ -221,6 +221,24 @@ Ideal Gas Equation
 
 PV = $\mu RT$
 
+Isobaric (Pressure) = P(V_{2} - V_{1})
+
+Isochoric (Volume) = 0
+
+Isothermal (Temperature) = Q
+
+Adiabatic (Isolated) = nC_{v}(T_{1}-T_{2})
+
+$\Delta Q = \Delta U + \Delta W$
+
+** thermodynamics
+
+Efficiency of heat engines : $\nu = \frac{W}{Q} = 1 - /frac{Q_2}{Q_1}$
+
+Where W = Work Done by engine and Q is heat (Q_{2}is heat rejected to sink and Q_{1} is heat absorbed)
+
+
+
 
 
 

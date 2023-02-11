@@ -17,3 +17,16 @@
 ** Principle of calorimetry : The principle of calorimetry (or principle of mixtures) states that for an insulated system, heat energy lost by the hot body is equal to the heat energy gained by the cold body.
 
 *Wien's displacement law* states that the black body radiation curve for different temperatures peaks at a wavelength inversely proportional to the temperature.
+
+*First Law of thermodynamics* : ../Chemistry/Equations.org
+
+*Second Law of thermodynamics* : Heat cannot transfer from a body at lower temperature to a body of higher energy without addition of energy
+
+*Kevin-Planck Constant* : it is impossible for any device that operates in a cycle to receive heat from a single reservoir and produce a net amount of work
+
+*Clausius Statement* : It is impossible to transfer heat from cold body to hot body without expenditure of work from external energy source
+
+Difference between Second law of thermodynamics and Clausius Statement? SLOThermodynamics is general while clausius' is related to heat engines(chatgpt)
+
+*Zeroth law of thermodynamics* : two systems in thermal equilibrium with a third system separately are in thermal equilibrium with each other.
+
