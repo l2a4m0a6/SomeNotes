@@ -5,3 +5,6 @@ c = 3 x 10^{8}
 R_{H} = 109678 cm^{-1}
 
 Wien's displacement constant = 2.8977729(17)×10^{−3}mK
+
+Ideal Gas Constant = R = 8.3145 J.mol^{-1}.K^{-1}
+
