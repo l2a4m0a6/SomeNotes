@@ -170,7 +170,19 @@ https://cdn1.byjus.com/wp-content/uploads/2020/11/Moment-of-InertiaArtboard-1-co
 
 ** Mechanical properties of solids and liquids
 
+Y = $\frac{FL}{\delta lA}$
 
+Bulk Mod K = -V $\frac{dP}{dV}$
+
+$\delta = \frac{Wl^3}{4bd^3 Y}$
+
+G = $\frac{E}{2(1+v)}$
+
+K = $\frac{E}{3(1-2v)}$
+
+E = $\frac{9KG}{3K+G}$
+
+v = $\frac{3K-2G}{2(3K+G)}$
 
 ** Thermal properties of matter
 
