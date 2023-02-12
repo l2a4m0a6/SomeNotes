@@ -12,6 +12,10 @@
 
 *Work Energy Theorem* : The work-energy theorem states that the work done on an object by the net force is equal to the change in its kinetic energy.
 
+** Mechanical Properties
+
+*Hookes law* : strain produced in any body, is directly proportional to stress applied within the elastic limit
+
 ** Thermal properties of matter
 
 ** Principle of calorimetry : The principle of calorimetry (or principle of mixtures) states that for an insulated system, heat energy lost by the hot body is equal to the heat energy gained by the cold body.
@@ -29,4 +33,6 @@
 Difference between Second law of thermodynamics and Clausius Statement? SLOThermodynamics is general while clausius' is related to heat engines(chatgpt)
 
 *Zeroth law of thermodynamics* : two systems in thermal equilibrium with a third system separately are in thermal equilibrium with each other.
+
+
 
