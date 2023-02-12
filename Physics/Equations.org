@@ -168,6 +168,10 @@ K = $\frac{1}{2}m \omega^2$
 
 https://cdn1.byjus.com/wp-content/uploads/2020/11/Moment-of-InertiaArtboard-1-copy-16-8.png
 
+** Mechanical properties of solids and liquids
+
+
+
 ** Thermal properties of matter
 
 In steady state, the rate of flow of heat *H* from one point to another is proportional to the temperature difference (T_{1}​−T_{2}​) and the area of cross section *A* and is inversely proportional to length *L*
