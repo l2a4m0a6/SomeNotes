@@ -46,3 +46,4 @@ $mvr = \frac{nh}{2 \pi}$
 
 *First law of thermodynamics* : Energy can neither be created nor destroyed although it may be converted from one form to another.
 
+*Faraday's Law of Electrolysis* :The amount of substance that undergoes a chemical reaction at an electrode during electrolysis is proportional to the quantity of electricity passed through an electrolyte.  

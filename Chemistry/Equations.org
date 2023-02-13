@@ -130,3 +130,14 @@ basic buffer pH = pK_{b} + log $\frac{Base}{Conjugate acid}$
 
 set of equations related to salt analysis
 [[https://d223we85878hn.cloudfront.net/64db3e3d-dfe0-4231-8d47-36def4179ad2_640w.jpeg]]
+
+** Electro Chemistry
+
+$E^o_cell = E^o_cathode + E^o_anode$
+
+Nernst Equation
+$E_cell = E^o_cell - \frac{RT}{nF}logQ$
+
+$E_cell = E^o_cell - \frac{0.0591}{n}logQ$
+
+
