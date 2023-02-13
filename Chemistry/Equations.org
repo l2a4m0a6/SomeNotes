@@ -119,5 +119,9 @@ $\frac{x}{m} = kP^\frac{1}{n}$
 
 K = $\frac{[A]^a [B]^b}{[C]^c [D]^d}$
 
-/Relation between K_{p} and K_{c}/
+/Relation between K_{p} and K_{c}/ : 
 $K_p = K_c (RT)$^{ $\Delta N$ }
+
+acidic buffer pH = pK_{a} + log $\frac{Conjugate base}{Acid}$
+
+basic buffer pH = pK_{b} + log $\frac{Base}{Conjugate acid}$
