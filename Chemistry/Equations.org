@@ -115,5 +115,9 @@ $\frac{x}{m} = kP^\frac{1}{n}$
 /Freundlich adsorption isotherm/
 ,Where $\frac{x}{m}$ is mass adsorbed per gram of the adsorption, P is pressure, k is constant
 
+** Equilibrium
 
+K = $\frac{[A]^a [B]^b}{[C]^c [D]^d}$
 
+/Relation between K_{p} and K_{c}/
+$K_p = K_c (RT)^\Delta N$
